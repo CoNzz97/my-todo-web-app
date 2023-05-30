@@ -27,4 +27,4 @@ st.text_input(label="todo input",
               placeholder="Add new todo...", on_change=add_todo, key="new_todo")
 st.button("Enter")
 
-st.session_state
+# st.session_state
